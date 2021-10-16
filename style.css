@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+body{
+    font-family: 'Festive', cursive;      
+    background-color:lightcyan;
+}
+
+
+img{
+    width:200px;
+}
+
+u,h2{
+     color:dodgerblue;
+} 
+
+h3{
+   color:purple;
+}
